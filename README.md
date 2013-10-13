@@ -1,4 +1,5 @@
-adware-list
+AdWare list
 ===========
 
-AdWare list
+DealPly
+Lyrmix (by Lyrix Engineering)
