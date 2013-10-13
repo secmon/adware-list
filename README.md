@@ -1,0 +1,4 @@
+adware-list
+===========
+
+AdWare list
