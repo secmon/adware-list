@@ -4,7 +4,7 @@ List of AdWare that displayed in *Add/Remove programs* (*Programs and Components
 
 Adware.csv consists of 5 columns:
 * *Name* — name of the program;
-* *ARName* — name that displayed in *Add/Remove programs* (*Programs and Components*) dialog;
-* *Sig* — signature that can be used to detect program installation (by ARName);
 * *Company* — company name;
+* *ARName* — name that displayed in *Add/Remove programs* (*Programs and Components*) dialog;
+* *ARSig* — signature that can be used to detect program installation (by *ARName*);
 * *Descr* — additional description (comments).
